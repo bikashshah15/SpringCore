@@ -8,7 +8,7 @@ public class CarMain {
 		
 		Car c1 = new Car("Toyota", 40000, "Red");
 		System.out.println(c1);
-		
+		System.out.println("changed!!");
 
 	}
 
